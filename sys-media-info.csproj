@@ -11,6 +11,7 @@
     <AssemblyName>sys-media-info</AssemblyName>
     <RootNamespace>Program</RootNamespace>
     <Authors>Zuozishi</Authors>
+    <PackageProjectUrl>https://github.com/zuozishi/sys-media-info</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
