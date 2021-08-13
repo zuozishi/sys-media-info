@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2"
+    },
+    "sys-media-info": {
+      "commandName": "Project"
+    }
+  }
+}
